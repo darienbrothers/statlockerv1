@@ -1,0 +1,18 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.moved-aside
+*.ipa
+*.dSYM.zip
+# SwiftPM
+.build/
+# Cocoapods (if ever used)
+Pods/
+# Fastlane outputs
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+# Misc
+.DS_Store
